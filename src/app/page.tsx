@@ -57,6 +57,8 @@ Let's all plug-in, connect, and grow with the CNCP Community together! 💙
 𝗙𝗿𝗮𝗺𝗲: Jade Lazaro
 𝗖𝗮𝗽𝘁𝗶𝗼𝗻: Ethaniel Sales 
 
+DP frame is 𝗶𝗻 𝗽𝗮𝗿𝘁𝗻𝗲𝗿𝘀𝗵𝗶𝗽 𝘄𝗶𝘁𝗵 𝗜𝗖𝗣𝗘𝗣 𝗦𝗘 - 𝗣𝗨𝗣 𝗠𝗮𝗻𝗶𝗹𝗮
+
 #CNCPLaunch
 #Cisco
 #ConnectwithCNCP
