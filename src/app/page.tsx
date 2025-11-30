@@ -50,9 +50,12 @@ Let's all plug-in, connect, and grow with the CNCP Community together! 💙
 𝗬𝗼𝘂𝗿 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗯𝗲𝗴𝗶𝗻𝘀 𝗻𝗼𝘄. 🌐⚡
 
 𝘎𝘙𝘈𝘉 𝘠𝘖𝘜𝘙 𝘋𝘗 𝘍𝘙𝘈𝘔𝘌 𝘉𝘌𝘓𝘖𝘞 𝘈𝘕𝘋 𝘊𝘖𝘕𝘕𝘌𝘊𝘛 𝘕𝘖𝘞!
-🔗 https://dct-frameit.vercel.app/
-🔗 https://dct-frameit.vercel.app/
-🔗 https://dct-frameit.vercel.app/
+🔗 cncp-launching.vercel.app
+🔗 cncp-launching.vercel.app
+🔗 cncp-launching.vercel.app
+
+𝗙𝗿𝗮𝗺𝗲: Jade Lazaro
+𝗖𝗮𝗽𝘁𝗶𝗼𝗻: Ethaniel Sales 
 
 #CNCPLaunch
 #Cisco
