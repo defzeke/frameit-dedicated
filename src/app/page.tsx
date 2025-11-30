@@ -38,18 +38,26 @@ export default function ImageFrameOverlay() {
     y: 0,
   });
   const [showSettings, setShowSettings] = useState<boolean>(false);
-  const caption = `⚙️ CPEYESTA 2025 IS UP AND TURNING! ⚙️
+  const caption = `𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗖𝗡𝗖𝗣! 🔌
 
-The system’s running on Fiesta Mode — no bugs, just good vibes! 💚💛
-From circuits to culture, from code to celebration — we’re proving that engineering isn’t just about logic, it’s about heart, creativity, and connection. 💾❤️
+My name is [𝗬/𝗡] and I am ready to connect, and begin my network with Cisco NetConnect PUP-Manila! 💥
 
-This fiesta, we’re not just compiling programs, we’re compiling memories that last a lifetime! 🎉✨
-So gear up, CpE fam — let’s debug the stress, upload the fun, and run joy.exe all week long! 🚀
+Empower connections, strengthen networks, and shape the future of digital innovation, inspired by Cisco's vision! ✨
+Let's all plug-in, connect, and grow with the CNCP Community together! 💙
 
-#CPEYESTA2025
-#CodeTheCulture 
-#TechMeetsTradition 
-#EngineeredForFun`;
+𝗖𝗡𝗖𝗣 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹𝗹𝘆 𝗹𝗮𝘂𝗻𝗰𝗵𝗲𝘀 on 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 𝟔 at 𝗪𝗵𝗶𝘁𝗲 𝗖𝗹𝗼𝗮𝗸 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜𝗻𝗰. 💡
+
+𝗬𝗼𝘂𝗿 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗯𝗲𝗴𝗶𝗻𝘀 𝗻𝗼𝘄. 🌐⚡
+
+𝘎𝘙𝘈𝘉 𝘠𝘖𝘜𝘙 𝘋𝘗 𝘍𝘙𝘈𝘔𝘌 𝘉𝘌𝘓𝘖𝘞 𝘈𝘕𝘋 𝘊𝘖𝘕𝘕𝘌𝘊𝘛 𝘕𝘖𝘞!
+🔗 https://dct-frameit.vercel.app/
+🔗 https://dct-frameit.vercel.app/
+🔗 https://dct-frameit.vercel.app/
+
+#CNCPLaunch
+#Cisco
+#ConnectwithCNCP
+#BridgingConnections`;
   const [captionCopied, setCaptionCopied] = useState<boolean>(false);
   const [scaleInputValue, setScaleInputValue] = useState<string>("1");
   const [rotationInputValue, setRotationInputValue] = useState<string>("0");
@@ -64,7 +72,7 @@ So gear up, CpE fam — let’s debug the stress, upload the fun, and run joy.ex
 
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const frameRef = useRef<HTMLImageElement | null>(null);
-  const frameSrc = "/frame2.png";
+  const frameSrc = "/frame3 - cisco.png";
   const colors = {
     bg: "bg-[#FFFFFF]",
     headerBg: "bg-[#05002D]",
